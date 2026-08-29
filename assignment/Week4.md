@@ -1,4 +1,4 @@
-<img width="478" height="58" alt="image" src="https://github.com/user-attachments/assets/ab0632b6-654f-4119-ae1b-a60f1a9da4da" /># Excel 4주차 정규 과제 
+# Excel 4주차 정규 과제 
 
 📌Excel 정규과제는 매주 정해진 분량의 『*진짜 쓰는 실무 엑셀*』 을 읽고 학습하는 것입니다. 이번주는 아래의 **EXCEL_4th_TIL**에 나열된 분량을 읽고 공부하시면 됩니다.
 
